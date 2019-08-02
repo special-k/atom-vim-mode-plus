@@ -677,6 +677,7 @@
   'D': 'vim-mode-plus:delete-line'
   'C': 'vim-mode-plus:change-line'
   'Y': 'vim-mode-plus:yank-line'
+  '*': 'vim-mode-plus:search-words-part'
 
 'atom-text-editor.vim-mode-plus.has-persistent-selection.normal-mode, atom-text-editor.vim-mode-plus.visual-mode':
   'I': 'vim-mode-plus:insert-at-start-of-target'

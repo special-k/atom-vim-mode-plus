@@ -217,6 +217,7 @@
   "vim-mode-plus:search-backwards",
   "vim-mode-plus:search-current-word",
   "vim-mode-plus:search-current-word-backwards",
+  "vim-mode-plus:search-words-part",
   "vim-mode-plus:search-match-forward",
   "vim-mode-plus:search-match-backward",
   "vim-mode-plus:previous-selection",

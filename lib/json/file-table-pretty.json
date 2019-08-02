@@ -246,6 +246,7 @@
     "Search",
     "SearchBackwards",
     "SearchCurrentWord",
+    "SearchWordsPart",
     "SearchCurrentWordBackwards"
   ],
   "./text-object": [
